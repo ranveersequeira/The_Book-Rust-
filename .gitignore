@@ -1,0 +1,28 @@
+# Ignore compiled artifacts
+**/target/
+
+# Ignore editor and IDE specific files
+**/*.rs.bk
+**/*.swp
+**/*.swo
+
+# Exclude Cargo.lock for all projects
+**/Cargo.lock
+
+# Exclude specific build output files
+**/build/
+
+# Exclude specific generated files
+**/generated/
+
+# Exclude specific logs or outputs
+**/*.log
+**/*.txt
+
+# Exclude specific configuration files
+**/*.toml
+**/*.yaml
+**/*.yml
+
+# Exclude any other files or directories specific to your projects
+
