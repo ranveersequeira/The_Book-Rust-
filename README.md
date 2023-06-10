@@ -16,8 +16,8 @@ I will update this section to reflect my progress as I work my way through "The 
 - [*] Introduction
 - [*] Getting Started
 - [*] Guessing Game
-- [ ] Common Programming Concepts
-- [ ] Understanding Ownership
+- [*] Common Programming Concepts
+- [*] Understanding Ownership
 - [ ] Structs
 - [ ] Enums and Pattern Matching
 - [ ] Packages, Crates, and Modules
